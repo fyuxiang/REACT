@@ -1,0 +1,5 @@
+0JSX----------------React的基础模板
+
+1 元素
+元素是react的最小单位，与传统DOM对象不同，react的dom元素为js对象--虚拟对象；HTML文档中需要一个渲染容器
+<div id="example"></div>为React的根DOM节点
